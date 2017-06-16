@@ -1,0 +1,10 @@
+4.0;Jan;Kowalski1;22
+5.0;Jan;Kowalski2;23
+3.0;Jan;Kowalski3;25
+3.0;Jan;Kowalski4;22
+5.0;Jan;Kowalski5;20
+
+
+
+
+
